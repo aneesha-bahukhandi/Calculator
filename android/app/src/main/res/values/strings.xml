@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">T1ww2QYd8rhb8wBzefdttpGfVZB0VkUZ8Wj4M</string>
+    <string name="app_name">Calculator</string>
+</resources>
