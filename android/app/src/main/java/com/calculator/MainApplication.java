@@ -29,7 +29,8 @@ public class MainApplication extends Application implements ReactApplication {
     @Override
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
-          new MainReactPackage()
+          new MainReactPackage(),
+              new CodePush("T1ww2QYd8rhb8wBzefdttpGfVZB0VkUZ8Wj4M", getApplicationContext(), BuildConfig.DEBUG)
       );
     }
   };
